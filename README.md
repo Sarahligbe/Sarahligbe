@@ -11,7 +11,7 @@ I'm a Cloud Engineer. I'm passionate about building things in the cloud and cont
 - 🌱 I’m currently learning Linux and Cloud services.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, DevOps Engineer, Cloud Engineer (Intern or Junior level).
-- 📫 You can [view my resume](https://docs.google.com/document/d/1Awbte8Vi9UyZZfmOM4G3lu0pYC8OLa-0f59Z3n_lGbc/edit) and contact me by emailing mailtosarahligbe12@gmail.com.
+- 📫 You can [view my resume](https://docs.google.com/document/d/1Awbte8Vi9UyZZfmOM4G3lu0pYC8OLa-0f59Z3n_lGbc/edit) and contact me by emailing sarahligbe12@gmail.com.
 
 ---
 
